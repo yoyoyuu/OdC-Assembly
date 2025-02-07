@@ -1,1 +1,1 @@
-# LCIV_OdC_Repositorio
+# Repositorio de Organización de computadoras
